@@ -18,9 +18,12 @@ Script Descriptions
     dim_time: Contains time-related information for easy aggregation and analysis.
     fact_pageviews: A fact table that consolidates the processed pageview data.
 
-2.main.py:
+2. main.py:
 
 - Runs all related tasks:
 - Extracts data from the .gz archives.
 - Processes and transforms the data using Python and Apache Spark.
 - Loads the data into the data warehouse.
+
+Reference Diagram
+Refer to the diagram in "project1_diagram.pdf" for an overview of the data warehouse schema and ETL flow.
