@@ -1,0 +1,102 @@
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-000000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-000000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-010000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-010000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-020000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-020000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-030000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-030000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-040000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-040000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-050000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-050000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-060000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-060000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-070000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-070000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-080000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-080000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-090000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-090000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-100000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-100000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-110000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-110000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-120000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-120000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-130000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-130000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-140000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-140000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-150000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-150000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-160000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-160000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-170000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-170000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-180000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-180000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-190000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-190000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-200000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-200000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-210000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-210000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-220000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-220000.gz already exsits. Skipping download.
+2025-01-13 15:20:02 : Attempting to download: https://dumps.wikimedia.org/other/pageviews/2015/2015-09/pageviews-20150902-230000.gz
+2025-01-13 15:20:02 : /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_raw/pageviews-20150902-230000.gz already exsits. Skipping download.
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-190000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-180000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-080000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-200000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-210000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-090000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-230000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-220000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-070000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-130000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-120000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-060000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-100000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-040000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-050000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-110000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-150000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-010000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-000000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-140000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-020000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-160000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-170000 to proceed parquet folder
+2025-01-13 15:21:17 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/gz_to_parquet_day/pageviews-20150902-030000 to proceed parquet folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150911 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150916 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150929 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150920 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150927 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150918 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150926 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150919 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150921 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150917 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150928 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150910 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150903 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150904 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150905 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150902 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150915 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150912 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150924 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150923 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150922 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150925 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150913 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150914 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150909 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150907 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150901 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150906 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150930 to processed_parquet_folder
+2025-01-13 15:21:18 : Moved /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/combine_parquet_day/20150908 to processed_parquet_folder

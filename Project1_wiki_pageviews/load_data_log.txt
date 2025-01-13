@@ -1,0 +1,6 @@
+2025-01-13 15:08:03 : Data loaded sucessfully!
+2025-01-13 15:08:03 : Moved 2015-09                                                    to /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/processed_load_to_wh
+2025-01-13 15:08:03 : Moved 2016_01                                                    to /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/processed_load_to_wh
+2025-01-13 15:21:23 : Data loaded sucessfully!
+2025-01-13 15:21:23 : Moved 2015-09                                                    to /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/processed_load_to_wh
+2025-01-13 15:21:23 : Moved 2016_01                                                    to /Users/GianNT/Documents/DE_project_venv/Project_1_Wiki_DW/Download_to_stage/processed_load_to_wh
